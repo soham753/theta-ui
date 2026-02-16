@@ -1,1 +1,1 @@
-update theme 2
+theme new issue #7
