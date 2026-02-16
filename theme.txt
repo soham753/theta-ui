@@ -1,1 +1,1 @@
-theme new issue #7
+theme new issue 
